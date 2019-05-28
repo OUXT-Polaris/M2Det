@@ -1,4 +1,4 @@
-pytorch==0.4.1
+pytorch
 torchvision
 opencv-python
 tqdm
